@@ -1,1 +1,1 @@
-select * from my_brain;
+select cheese, tuna from my_brain where thoughts = food;
